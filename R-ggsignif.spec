@@ -7,7 +7,7 @@
 #
 Name     : R-ggsignif
 Version  : 0.6.4
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/ggsignif_0.6.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ggsignif_0.6.4.tar.gz
 Summary  : Significance Brackets for 'ggplot2'
